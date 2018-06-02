@@ -3,8 +3,7 @@ This repository provides a virtual linux environment and practicals to get used 
 
 ### Install the program VirtualBox on your computer. 
 
-Installation instructions for Windows and MAC OSX can be found in the VirtualBox folder of this repository. 
-In addition to the installation instructions in file VirtualBox_install.pdf detailed installation videos featuring my amazing German accent can be found in the videos directory: VB_WIN_INSTALL.mov for Windows computers, VB_OSX_INSTALL.mov for Mac computers. These files can be downloaded and opened with most common media players
+Installation instructions for Windows and MAC OSX can be found in the VirtualBox folder (MS Word document) or as videos in the videos folder of this repository: VB_WIN_INSTALL.mov for Windows computers, VB_OSX_INSTALL.mov for Mac computers. These files can be downloaded and opened with most common media players
 
 ### Start the exercise
 
