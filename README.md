@@ -1,5 +1,5 @@
 # CLI-tutorial
-This repository provides a virtual linux environment and practicals to get used to the basic usage of a command-line interface if unix-like operating systems such as linux distributions and Mac-terminal.
+This repository provides a virtual linux environment and practicals to get used to the basic usage of a command-line interface on unix-like operating systems such as linux distributions and Mac-terminal.
 
 ### Install the program VirtualBox on your computer. 
 
