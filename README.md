@@ -7,7 +7,8 @@ Installation instructions for Windows and MAC OSX can be found in the VirtualBox
 
 ### Start the exercise
 
-To start the tutorial unzip the cli-tutorial.zip and add it to VirtualBox. A How-To video (StartExercise.mov) is also available in the videos folder of this repository.
+1. Download the cli-tutorial.zip and the CLI-Tutorial.pdf.
+2. Unzip the cli-tutorial.zip and add it to VirtualBox. A How-To video (StartExercise.mov) is also available in the videos folder of this repository.
+3. Read the Cli-Tutorial.pdf for a quick introduction to command-line usage and follow the instructions to complete the tutorial.
 
-Start the exercise and follow the CLI-Tutorial.pdf.
-Good luck.
+Good luck and have fun.
