@@ -12,3 +12,18 @@ Installation instructions for Windows and MAC OSX can be found in the VirtualBox
 3. Read the Cli-Tutorial.pdf for a quick introduction to command-line usage and follow the instructions to complete the tutorial.
 
 Good luck and have fun.
+
+## Trouble-shooting
+
+### Disable VirtualBox USB controller 
+If the virtual machine does not boot up properly try to deactivate USB driver support. 
+1. Stop the VM
+2. In Virtualbox on the left side of the menu right-click the VM and choose "Settings"
+3. Disable the USB controller under "Ports / USB"
+
+
+### Enable Virtualisation
+Some windows computers do not allow virtualisation unless specifically enabled in the UEFI-Bios. For ways to enable virtualisation please ask Dr. Google about your specific bios/computer.
+
+### VM does not start up again
+If you don't finish the exercise and isntead shut the VM down the VM might not start up again properly. In this case please remove the VM from Virtualbox (right-click remove) and add the file again.
