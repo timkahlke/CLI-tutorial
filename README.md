@@ -1,6 +1,8 @@
 # CLI-tutorial
 This repository provides a virtual linux environment and practicals to get used to the basic usage of a command-line interface on unix-like operating systems such as linux distributions and Mac-terminal.
 
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/AdvancedTwigTec.svg?style=social&label=Follow%20%40AdvancedTwigTec)](https://twitter.com/AdvancedTwigTec)
+
 ### Install the program VirtualBox on your computer. 
 
 Installation instructions for Windows and MAC OSX can be found in the VirtualBox folder (MS Word document) or as videos in the videos folder of this repository: VB_WIN_INSTALL.mov for Windows computers, VB_OSX_INSTALL.mov for Mac computers. These files can be downloaded and opened with most common media players
